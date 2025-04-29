@@ -1,2 +1,3 @@
 # Data-Analyst
-This is a data analysis project portfolio.
+This is my data analytics repository.
+Author - Satyam Singh (VIT University)
